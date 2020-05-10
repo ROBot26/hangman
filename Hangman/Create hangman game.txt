@@ -1,0 +1,7 @@
+Phase 1: Create hangman game first to run in IDLE
+
+Problems to fix
+-when guess correct, only one letter is added to displayed string, even if multiple
+-when guess correct, displayed string grows instead of replacing blanks.
+
+Phase 2: Create hangman game that runs in GUI
